@@ -1,1 +1,0 @@
-@import"https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap";*{font-family:Ubuntu,sans-serif;-webkit-user-select:none;user-select:none}html,body{overflow:hidden}.blink{animation:blinker 1.2s step-start infinite}@keyframes blinker{50%{opacity:0}}
